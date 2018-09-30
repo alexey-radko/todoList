@@ -29,7 +29,7 @@ function createItem(title) {
     listeItem.appendChild(editButton);
     listeItem.appendChild(deleteButton);
 
-    // bindEvents(listeItem);
+    
     return listeItem;
 
 }
